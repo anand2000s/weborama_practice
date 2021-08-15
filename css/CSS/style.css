@@ -1,0 +1,31 @@
+/*.head1{
+    color:green;
+    top: 100px;
+    bottom: 100px;
+    left: 100px;
+    right: 100px;
+    position: relative;
+}
+.div{
+    color:green;
+    top: 100px;
+    bottom: 100px;
+    left: 100px;
+    right: 100px;
+    position: relative;
+}
+#head2{
+    color:blue;
+}*/
+.bg{
+    background-color: skyblue;
+    height:100vw;
+    width: 100vw;
+}
+.center{
+    background-color: pink;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    width: 100vw;
+}
